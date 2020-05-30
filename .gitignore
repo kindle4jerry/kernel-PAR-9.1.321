@@ -1,0 +1,5 @@
+tools/*.img
+tools/*.gz
+drivers/hisi/tzdriver/
+drivers/hisi/tzdriver/__pycache__/
+*.patch
